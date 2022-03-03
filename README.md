@@ -205,6 +205,10 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </td><td align="center">Contains new and prev releases.</td></tr>
 
 <tr><td align="right">
+<a href="https://disk.yandex.ru/d/7i5XTKIKVg5UUg">Windows (yandex.ru)</a>
+</td><td align="center">Contains new and prev releases.</td></tr>
+
+<tr><td align="right">
 <a href="https://github.com/chervonij/DFL-Colab">Google Colab (github)</a>
 </td><td align="center">by @chervonij . You can train fakes for free using Google Colab.</td></tr>
 
