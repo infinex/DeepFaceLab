@@ -346,11 +346,11 @@ QQ群1095077489
 ### Sponsor deepfake research and DeepFaceLab development.
 
 </td></tr>
-
+<!--
 <tr><td colspan=2 align="center">
 <a href="https://www.paypal.com/paypalme/DeepFaceLab">Donate via Paypal</a>
 </td></tr>
-
+-->
 <tr><td colspan=2 align="center">
 <a href="https://money.yandex.ru/to/41001142318065">Donate via Yandex.Money</a>
 </td></tr>
